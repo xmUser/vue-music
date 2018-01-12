@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <img src="./common/logo.png">
-    <router-view/>
+    hello word
   </div>
 </template>
 
